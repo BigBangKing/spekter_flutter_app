@@ -20,6 +20,9 @@ Screenshots:
 ![required output](https://github.com/BigBangKing/rifat_spekter_flutter_app/blob/master/required%20output%20on%20console%20-Capture.PNG)
 
 ![Screenshot](https://github.com/BigBangKing/rifat_spekter_flutter_app/blob/master/device-2020-09-11-144129.png)
+
+image below has been edited to hide information. Hope this gives a good understanding to the right person. Running the app will give expected result.
+
 ![Screenshot](https://github.com/BigBangKing/rifat_spekter_flutter_app/blob/master/secure%20-%20device-2020-09-11-145019.png)
 
 Please check out more pictures available on the master repo.
